@@ -14,7 +14,7 @@ This project analyzes the WPA2 4-Way Handshake to study its structure, cryptogra
 ├── hand_shake-creation.py       # Basic WPA2 handshake analyzer (original)
 ├── hand_shake-analysis.py       # Enhanced analyzer with demo mode and handshake grouping
 ├── hand_shake-creation.txt      # Reference copy of the creation script
-└── Cyber-Security_Project_Report.pdf
+└── Project_Report.pdf
 ```
 
 ---
